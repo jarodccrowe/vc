@@ -2,7 +2,7 @@ repo_name: jarodccrowe/vc
 report_id: ae775eaf20abeedcd7afceeb04687177
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-18T02:43:14+00:00'
+timestamp: '2024-02-29T19:30:21+00:00'
 requested_by: paulhill
 provider: github
 branch: master
@@ -242,8 +242,8 @@ tools:
   last_updated_by: Konstantin Tarkus
   last_updated_on: 2014-06-08 15:20:36.000000000 Z
 - name: EditorConfig
-  description: 'A file format and collection of text editor plugins for maintaining
-    consistent coding styles '
+  description: A file format and collection of text editor plugins for maintaining
+    consistent coding styles
   website_url: http://editorconfig.org
   open_source: false
   hosted_saas: false
